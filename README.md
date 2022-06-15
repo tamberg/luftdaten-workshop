@@ -8,6 +8,9 @@ https://github.com/opendata-stuttgart/sensors-software/tree/master/airrohr-firmw
   * via https://github.com/opendata-stuttgart/sensors-software
   * https://github.com/opendata-stuttgart/airrohr-firmware-flasher (?)
 
+## Sensor Wi-Fi Konfiguration
+https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren
+
 ## Sensor Community Registration
 https://devices.sensor.community/
 
