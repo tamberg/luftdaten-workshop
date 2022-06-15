@@ -4,7 +4,7 @@
 https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
 
 ## Sensor Software Flashen
-TODO
+https://github.com/opendata-stuttgart/airrohr-firmware-flasher (?)
 
 ## Sensor Community Registration
 https://devices.sensor.community/
