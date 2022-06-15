@@ -11,5 +11,5 @@ https://github.com/opendata-stuttgart/sensors-software/tree/master/airrohr-firmw
 ## Sensor Community Registration
 https://devices.sensor.community/
 
-## Sensor Luftdaten Karte
+## Sensor Community Karte
 https://maps.sensor.community/#3/40.00/15.00
