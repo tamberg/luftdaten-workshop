@@ -16,7 +16,7 @@ https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren
 https://devices.sensor.community/
 
 ## Sensor Community Karte
-https://maps.sensor.community/#3/40.00/15.00
+https://maps.sensor.community/#12/47.3775/8.5367
 
 ## Sensor Community Lizenzen
 * Firmware https://www.gnu.org/licenses/gpl-3.0.en.html
