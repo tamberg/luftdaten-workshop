@@ -1,5 +1,5 @@
 # Luftdaten Workshop
-Initiiert von [Smart City Zürich](stadt-zuerich.ch/smart-city), mit [@tamberg](https://twitter.com/tamberg), [FHNW](https://www.fhnw.ch/).
+Initiiert von [Smart City Zürich](stadt-zuerich.ch/smart-city), mit [@tamberg](https://twitter.com/tamberg), [@twulls](https://twitter.com/twulls), [FHNW](https://www.fhnw.ch/).
 
 ## Sensor Bauanleitung
 https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
