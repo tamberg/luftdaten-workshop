@@ -5,7 +5,7 @@ Verwendet Source Code von [Open Data Stuttgart](https://github.com/opendata-stut
 
 Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattform unter [DbCL v1.0](https://opendatacommons.org/licenses/dbcl/1-0/).
 
-## Sensor & Gehäuse bauen
+## Sensor und Gehäuse bauen
 https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
 
 Oder https://sensor.community/en/sensors/airrohr/ (?)
@@ -19,7 +19,7 @@ https://github.com/opendata-stuttgart/sensors-software/blob/master/airrohr-firmw
 ## Sensor Wi-Fi konfigurieren
 https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren
 
-## Sensor bei Plattform registrieren
+## Sensor bei Community registrieren
 https://devices.sensor.community/sensors/register
 
 ## Sensor Community Karte mit Daten azeigen
