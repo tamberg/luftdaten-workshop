@@ -8,6 +8,8 @@ Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattf
 ## Sensor Bauanleitung
 https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
 
+Oder https://sensor.community/en/sensors/airrohr/ (?)
+
 ## Sensor Firmware Flashen
 https://github.com/opendata-stuttgart/sensors-software/blob/master/airrohr-firmware/airrohr-firmware.ino
   * via https://github.com/opendata-stuttgart/sensors-software/tree/master/airrohr-firmware
