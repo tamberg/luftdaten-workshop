@@ -18,6 +18,6 @@ https://devices.sensor.community/
 https://maps.sensor.community/#3/40.00/15.00
 
 ## Sensor Community Lizenzen
-* Firmware ist https://www.gnu.org/licenses/gpl-3.0.en.html
-* Daten sind https://opendatacommons.org/licenses/dbcl/1-0/
+* Firmware https://www.gnu.org/licenses/gpl-3.0.en.html
+* Daten https://opendatacommons.org/licenses/dbcl/1-0/
 * Fotos https://creativecommons.org/publicdomain/zero/1.0/deed.de
