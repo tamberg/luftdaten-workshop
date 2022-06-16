@@ -14,7 +14,7 @@ https://github.com/opendata-stuttgart/sensors-software/blob/master/airrohr-firmw
 https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren
 
 ## Sensor Community Registration
-https://devices.sensor.community/
+https://devices.sensor.community/sensors/register
 
 ## Sensor Community Karte
 https://maps.sensor.community/#12/47.3775/8.5367
