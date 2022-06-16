@@ -3,7 +3,7 @@ Initiiert von [Smart City Zürich](stadt-zuerich.ch/smart-city), mit [@tamberg](
 
 Verwendet Source Code von [Open Data Stuttgart](https://github.com/opendata-stuttgart), lizenziert unter [GPLv3](https://github.com/opendata-stuttgart/sensors-software/blob/master/airrohr-firmware/airrohr-firmware.ino#L8-L23).
 
-Speichert Daten auf der https://sensor.community/de/ Plattform.
+Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattform unter [DbCL v1.0](https://opendatacommons.org/licenses/dbcl/1-0/).
 
 ## Sensor Bauanleitung
 https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
