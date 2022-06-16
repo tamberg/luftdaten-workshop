@@ -4,7 +4,7 @@ Initiiert von [Smart City Zürich](stadt-zuerich.ch/smart-city), mit [@tamberg](
 ## Sensor Bauanleitung
 https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
 
-## Sensor Software Flashen
+## Sensor Firmware Flashen
 https://github.com/opendata-stuttgart/sensors-software/blob/master/airrohr-firmware/airrohr-firmware.ino
   * via https://github.com/opendata-stuttgart/sensors-software/tree/master/airrohr-firmware
   * via https://github.com/opendata-stuttgart/sensors-software
