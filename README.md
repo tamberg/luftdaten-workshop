@@ -1,7 +1,7 @@
 # Luftdaten Workshop
 Initiiert von [Smart City Zürich](stadt-zuerich.ch/smart-city), mit [@tamberg](https://twitter.com/tamberg), [@twulls](https://twitter.com/twulls), [FHNW](https://www.fhnw.ch/).
 
-Verwendet Source Code von [Open Data Stuttgart](https://github.com/opendata-stuttgart).
+Verwendet Source Code von [Open Data Stuttgart](https://github.com/opendata-stuttgart), lizenziert unter [GPLv3](https://github.com/opendata-stuttgart/sensors-software/blob/master/airrohr-firmware/airrohr-firmware.ino#L8-L23).
 
 Speichert Daten auf der https://sensor.community/de/ Plattform.
 
