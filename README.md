@@ -5,7 +5,7 @@ Verwendet Source Code von [Open Data Stuttgart](https://github.com/opendata-stut
 
 Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattform unter [DbCL v1.0](https://opendatacommons.org/licenses/dbcl/1-0/).
 
-## Sensor und Gehäuse Bauen
+## Sensor & Gehäuse Bauen
 https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
 
 Oder https://sensor.community/en/sensors/airrohr/ (?)
