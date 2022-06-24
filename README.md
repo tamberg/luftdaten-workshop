@@ -10,6 +10,9 @@ https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.15
 
 Oder https://sensor.community/en/sensors/airrohr/ (?)
 
+## USB Treiber installieren
+https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers (CP210x, für NodeMCU v2)
+
 ## Sensor Firmware flashen
 https://github.com/opendata-stuttgart/sensors-software/blob/master/airrohr-firmware/airrohr-firmware.ino
   * via https://github.com/opendata-stuttgart/sensors-software/tree/master/airrohr-firmware
