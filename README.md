@@ -10,8 +10,11 @@ https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.15
 
 Oder https://sensor.community/en/sensors/airrohr/ (?)
 
-## USB Treiber installieren
+## USB Treiber installieren (optional)
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers (CP210x, für NodeMCU v2)
+
+## Arduino IDE installieren (optional)
+https://arduino.cc/
 
 ## Sensor Firmware flashen
 https://github.com/opendata-stuttgart/sensors-software/blob/master/airrohr-firmware/airrohr-firmware.ino
@@ -20,6 +23,7 @@ https://github.com/opendata-stuttgart/sensors-software/blob/master/airrohr-firmw
   * https://github.com/opendata-stuttgart/airrohr-firmware-flasher (?)
 
 ## Sensor Wi-Fi konfigurieren
+AP ID: airRohr-12345678
 https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren
 
 ## Sensor bei Community registrieren
