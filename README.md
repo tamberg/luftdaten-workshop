@@ -10,6 +10,8 @@ https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.15
 
 Oder https://sensor.community/en/sensors/airrohr/ (?)
 
+Oder https://airbg.info/en/build-a-station/
+
 ## USB Treiber installieren (optional)
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers (CP210x, für NodeMCU v2)
 
