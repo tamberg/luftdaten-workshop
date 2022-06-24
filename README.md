@@ -23,8 +23,8 @@ https://github.com/opendata-stuttgart/sensors-software/blob/master/airrohr-firmw
   * https://github.com/opendata-stuttgart/airrohr-firmware-flasher (?)
 
 ## Sensor Wi-Fi konfigurieren
-AP ID: airRohr-12345678
 https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren
+  * AP ID: airRohr-12345678
 
 ## Sensor bei Community registrieren
 https://devices.sensor.community/sensors/register
