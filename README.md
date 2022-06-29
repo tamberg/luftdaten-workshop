@@ -7,8 +7,8 @@ Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattf
 
 ## Sensor und Gehäuse bauen
 https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
-    * Ev. auch https://sensor.community/en/sensors/airrohr/ 
-    * Und https://airbg.info/en/build-a-station/
+  * Ev. auch https://sensor.community/en/sensors/airrohr/
+  * Und https://airbg.info/en/build-a-station/
 
 ## USB Treiber installieren (optional)
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers (CP210x, für NodeMCU v2)
