@@ -17,9 +17,9 @@ Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattf
 * 7 * F-F Jumper Kabel, farbig (bzw. 3 + 4)
 * 1 * Micro USB Kabel, lang
 * 1 * 230V USB Adapter
-* 1 * SDS011 Feinstaub Sensor
-* 1 * ESP8266 NodeMCU Mikrocontroller
-* 1 * DHT22 Temperatur & Feuchtigkeitssensor
+* 1 * SDS011 Feinstaub Sensor, silber, schwarz
+* 1 * ESP8266 NodeMCU Mikrocontroller, schwarz
+* 1 * DHT22 Temperatur- & Feuchtigkeitssensor, rot
 
 ## Sensor und Gehäuse bauen
 https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
