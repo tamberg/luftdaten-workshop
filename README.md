@@ -5,6 +5,8 @@ Verwendet Source Code von [Open Data Stuttgart](https://github.com/opendata-stut
 
 Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattform unter [DbCL v1.0](https://opendatacommons.org/licenses/dbcl/1-0/).
 
+<img src="https://live.staticflickr.com/65535/52190850590_b975aff403_o.gif"/>
+
 ## Material prüfen
 <img src="https://live.staticflickr.com/65535/52190368383_59d8d941df_b.jpg"/>
 
