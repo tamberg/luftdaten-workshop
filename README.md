@@ -10,12 +10,12 @@ Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattf
 ## Material auspacken und prüfen
 <img src="https://live.staticflickr.com/65535/52190368383_59d8d941df_b.jpg"/>
 
-* 2 * Rohr
-* 2 * Netz
-* 3 * Kabelbinder gross
-* 3 * Kabelbinder klein
-* 7 * F-F Jumper Kabel (bzw. 3 + 4)
-* 1 * Micro USB Kabel
+* 2 * Rohr, grau
+* 2 * Netz, blau
+* 3 * Kabelbinder, gross
+* 3 * Kabelbinder, klein
+* 7 * F-F Jumper Kabel, farbig (bzw. 3 + 4)
+* 1 * Micro USB Kabel, lang
 * 1 * 230V USB Adapter
 * 1 * SDS011 Feinstaub Sensor
 * 1 * ESP8266 NodeMCU Mikrocontroller
