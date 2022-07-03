@@ -17,7 +17,7 @@ Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattf
 * 7 * F-F Jumper Kabel, farbig (bzw. 3 + 4)
 * 1 * Micro USB Kabel, lang
 * 1 * 230V USB Adapter
-* 1 * Rohr, ca 20 cm
+* 1 * Schlauch, 20 cm
 * 1 * SDS011 Feinstaub Sensor, silber, schwarz
 * 1 * ESP8266 NodeMCU Mikrocontroller, schwarz
 * 1 * DHT22 Temperatur- & Feuchtigkeitssensor, rot
