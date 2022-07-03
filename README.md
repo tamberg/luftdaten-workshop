@@ -10,6 +10,16 @@ Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattf
 ## Material auspacken und prüfen
 <img src="https://live.staticflickr.com/65535/52190368383_59d8d941df_b.jpg"/>
 
+* 2 * Rohr
+* 2 * Netz
+* 3 * Kabelbinder gross
+* 3 * Kabelbinder klein
+* 7 * F-F Jumper Kabel (bzw. 3 + 4)
+* 1 * SDS011 Feinstaub Sensor
+* 1 * ESP8266 NodeMCU Mikrocontroller
+* 1 * DHT22 Temperatur & Feuchtigkeitssensor
+
+
 ## Sensor und Gehäuse bauen
 https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
   * Ev. auch https://sensor.community/en/sensors/airrohr/
