@@ -7,7 +7,7 @@ Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattf
 
 <img src="https://live.staticflickr.com/65535/52190850590_b975aff403_o.gif"/>
 
-## Material auspacken & prüfen
+## Material auspacken und prüfen
 <img src="https://live.staticflickr.com/65535/52190368383_59d8d941df_b.jpg"/>
 
 ## Sensor und Gehäuse bauen
