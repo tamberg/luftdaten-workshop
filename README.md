@@ -49,10 +49,5 @@ https://devices.sensor.community/sensors/register
 ## Sensor Community Karte mit Daten azeigen
 https://maps.sensor.community/#12/47.3775/8.5367
 
-## Sensor Community Lizenzen für Firmware und Daten
-* Firmware https://www.gnu.org/licenses/gpl-3.0.en.html
-* Daten https://opendatacommons.org/licenses/dbcl/1-0/
-* Fotos https://creativecommons.org/publicdomain/zero/1.0/deed.de
-
 ## Sensor Community Forum
 https://forum.sensor.community/
