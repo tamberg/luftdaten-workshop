@@ -106,7 +106,7 @@ Dazu braucht es die folgenden Schritte:
 
 ### Fertiger Sensor
 
-Nun ist der Sensor bereit zur Montage, z.B. auf dem Balkon.
+Nun ist der Luftdaten Sensor bereit zur Montage, z.B. auf dem Balkon.
 
 Der folgende Schritt muss zu Hause nochmal durchgeführt werden:
 
