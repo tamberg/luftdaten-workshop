@@ -92,14 +92,14 @@ VCC = rot, DAT = orange, (leer), GND = braun
 ### Rohr zusammenstecken
 <img src="" width="540"/>
 
-## USB Treiber installieren (optional)
-https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers (CP210x, für NodeMCU v2)
-
-## Arduino IDE installieren (optional)
-https://arduino.cc/
-
 ## Sensor Firmware flashen
-https://github.com/opendata-stuttgart/sensors-software/blob/master/airrohr-firmware/airrohr-firmware.ino
+> Achtung: Für den Workshop wurde die Firmware bereits auf den ESP8266 NodeMCU Mikrocontroller geflasht.
+
+Um den Sensor zu Programmieren, braucht es einen Computer mit Arduino Entwicklungsumgebung https://arduino.cc/
+
+Zudem diesen USB Treiber https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers (CP210x, für NodeMCU v2)
+
+Und diesen Code https://github.com/opendata-stuttgart/sensors-software/blob/master/airrohr-firmware/airrohr-firmware.ino
 
 ## Sensor Wi-Fi konfigurieren
 https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren
