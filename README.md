@@ -47,7 +47,7 @@ Die rote Variante hat drei Anschlüsse:
 
 <img src="https://live.staticflickr.com/65535/52189260537_c8973c89ae_b.jpg" width="480"/>
 
-Die andere Variante hat vier:
+Die andere Variante hat vier, ein Platz bleibt leer:
 
 <img src="https://live.staticflickr.com/65535/52321570598_684f144f31_b.jpg" width="480"/>
 
