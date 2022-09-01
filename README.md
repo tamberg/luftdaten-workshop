@@ -30,7 +30,7 @@ Das Luftdaten Kit sollte die folgenden Teile enthalten:
 ### ESP8266 NodeMCU Mikrocontroller
 Dieser Mikrocontroller ist ein kleiner Computer mit Wi-Fi.
 
-Die goldene, eckige Linie oben ist seine Wi-Fi Antenne.
+Die goldene, eckige Linie oben, ist seine Wi-Fi Antenne.
 
 Über die Pins an den Seiten kann er Sensoren auslesen.
 
