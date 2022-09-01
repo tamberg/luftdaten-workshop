@@ -92,7 +92,8 @@ VCC = rot, DAT = orange, (leer), GND = braun
 ### Rohr zusammenstecken
 <img src="" width="540"/>
 
-Details siehe https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
+### Details
+https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
 
 ## USB Treiber installieren (optional)
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers (CP210x, für NodeMCU v2)
@@ -102,9 +103,6 @@ https://arduino.cc/
 
 ## Sensor Firmware flashen
 https://github.com/opendata-stuttgart/sensors-software/blob/master/airrohr-firmware/airrohr-firmware.ino
-  * via https://github.com/opendata-stuttgart/sensors-software/tree/master/airrohr-firmware
-  * via https://github.com/opendata-stuttgart/sensors-software
-  * https://github.com/opendata-stuttgart/airrohr-firmware-flasher (?)
 
 ## Sensor Wi-Fi konfigurieren
 https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren
