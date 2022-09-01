@@ -91,7 +91,7 @@ Es ist gut, vor dem Einbau der Elektronik ins Rohr, alles zu testen.
 
 Dazu braucht es die folgenden Schritte:
 
-* [Sensor Firmware flashen](#sensor-firmware-flashen) (nur, falls keine Sensor ID auf dem Kit)
+* [Sensor Firmware flashen](#sensor-firmware-flashen) (nur, falls keine Sensor ID auf dem Kit steht)
 * [Sensor Wi-Fi konfigurieren](#Sensor-wi-fi-konfigurieren) (für das Wi-Fi Netzwerk im Workshop)
 * [Sensor bei Community registrieren](#sensor-bei-community-registrieren) (um eigene Daten zu finden)
 
