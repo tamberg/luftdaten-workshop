@@ -54,7 +54,7 @@ G = schwarz, VU = weiss
 
 Der Alu Teil oben auf dem ESP8266 NodeMCU hilft bei der Orientierung.
 
-D7 = orange, GND = braun, 3V3 = rot, D2 = grau, D1 = violett
+D7 = orange, G = braun, 3V = rot, D2 = grau, D1 = violett
 
 <img src="https://live.staticflickr.com/65535/52190528124_6aa5e9a2c6_b.jpg" width="540"/>
 
