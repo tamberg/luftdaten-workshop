@@ -55,7 +55,9 @@ Der Alu Teil oben auf dem ESP8266 NodeMCU hilft bei der Orientierung.
 <img src="https://live.staticflickr.com/65535/52190528124_6aa5e9a2c6_b.jpg" width="540"/>
 
 ### SDS011 Feinstaub Sensor an 4-er Kabel anstecken
-<img src="" width="540"/>
+TXD = violett, RXD = grau, GND = schwarz, (2.5um = leer), 5V = weiss, (1um = leer), (NC = leer)
+
+<img src="https://live.staticflickr.com/65535/52190756335_3807218db2_b.jpg" width="540"/>
 
 ### DHT22 Sensor an 3-er Kabel anstecken (Variante rot)
 > Achtung: Nur für die rote Variante, sonst geht's [hier weiter](#dht22-sensor-an-3-er-kabel-anstecken-variante-weiss).
