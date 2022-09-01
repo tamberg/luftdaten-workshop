@@ -89,7 +89,9 @@ Ein Stück Tape hilft, die Kabel zu fixieren - auf der Rückseite:
 
 Es ist gut, vor dem Einbau der Elektronik ins Rohr, alles zu testen.
 
+Dazu braucht es die folgenden Schritte:
 
+* [Sensor Firmware flashen](#sensor-firmware-flashen)
 
 ### Schlauch an Feinstaub Sensor stecken
 <img src="" width="540"/>
