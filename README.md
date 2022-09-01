@@ -32,9 +32,11 @@ Das Luftdaten Kit sollte die folgenden Teile enthalten:
 
 ### Kabel an ESP8266 NodeMCU Mikrocontroller anstecken
 Die Farben der Kabel und die genaue Position sind wichtig.
+
 <img src="https://live.staticflickr.com/65535/52190287993_e04a10e5da_b.jpg" width="540"/>
 
 Der silbrige Teil oben auf dem ESP8266 NodeMCU hilft bei der Orientierung.
+
 <img src="https://live.staticflickr.com/65535/52190287993_e04a10e5da_b.jpg" width="540"/>
 
 ### SDS011 Feinstaub Sensor an 4-er Kabel anstecken
