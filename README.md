@@ -20,7 +20,9 @@ Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattf
 * 1 * Schlauch, 20 cm
 * 1 * SDS011 Feinstaub Sensor, silber, schwarz
 * 1 * ESP8266 NodeMCU Mikrocontroller, schwarz
-* 1 * DHT22 Temperatur- und Feuchtigkeitssensor, rot
+* 1 * DHT22 Temperatur- und Feuchtigkeitssensor, rot*
+
+<sup>*</sup>In manchen Kits ist der DHT22 Sensor ohne den rot Teil.
 
 ## Sensor und Gehäuse bauen
 https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
