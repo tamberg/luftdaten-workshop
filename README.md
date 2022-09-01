@@ -132,7 +132,7 @@ Siehe auch https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble
 ## Sensor bei Community registrieren
 https://devices.sensor.community/sensors/register
 
-## Sensor Community Karte mit Daten azeigen
+## Sensor Community Karte mit Daten anzeigen
 https://maps.sensor.community/#12/47.3775/8.5367
 
 ## Sensor Community Forum
