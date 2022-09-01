@@ -58,7 +58,7 @@ Der Alu Teil oben auf dem ESP8266 NodeMCU hilft bei der Orientierung.
 <img src="" width="540"/>
 
 ### DHT22 Sensor an 3-er Kabel anstecken (Variante rot)
-> Achtung: Nur für die rote Variante, sonst [hier weiter](#dht22-sensor-variante-weiss).
+> Achtung: Nur für die rote Variante, sonst [hier weiter](#dht22-sensor-an-3-er-kabel-anstecken-variante-weiss).
 
 Diese Variante des Sensors hat drei Pins für Kabel:
 
