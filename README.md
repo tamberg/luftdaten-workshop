@@ -80,6 +80,10 @@ VCC = rot, DAT = orange, (leer), GND = braun
 
 <img src="https://live.staticflickr.com/65535/52321570598_e6090ed620_b.jpg" width="480"/>
 
+Die Pins sind sehr dünn, ev. von hinten fixieren mit Tape:
+
+<img src="https://live.staticflickr.com/65535/52320457907_4fcb69f0cb_b.jpg" width="480"/>
+
 ### Zwischenstand: Elektronik komplett
 <img src="https://live.staticflickr.com/65535/52189260562_b2812e12cd_b.jpg" width="480"/>
 
