@@ -43,7 +43,7 @@ Dieser Sensor kann Feinstaub Partikel messen, ein Mass für die Luftqualität.
 Dieser Sensor kann die Temperatur und die Feuchtigkeit der Luft messen.
 
 ## Sensor und Gehäuse bauen
-> Achtung: Den Strom bzw. USB erst ganz am Schluss anschliessen, wenn alles fertig ist.
+> Achtung: Den Strom bzw. USB erst ganz am Schluss anschliessen, wenn alles verkabelt ist.
 
 ### Kabel an ESP8266 NodeMCU Mikrocontroller anstecken
 Die Farben der Kabel und die genaue Position sind wichtig.
