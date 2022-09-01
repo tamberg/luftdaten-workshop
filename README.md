@@ -8,6 +8,8 @@ Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattf
 <img src="https://live.staticflickr.com/65535/52190850590_b975aff403_o.gif"/>
 
 ## Material auspacken und prüfen
+Das Luftdaten Kit sollte die folgenden Teile enthalten:
+
 <img src="https://live.staticflickr.com/65535/52190368383_59d8d941df_b.jpg"/>
 
 * 2 * Rohr, grau
@@ -22,7 +24,8 @@ Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattf
 * 1 * ESP8266 NodeMCU Mikrocontroller, schwarz
 * 1 * DHT22 Temperatur- und Feuchtigkeitssensor, rot**
 
-<sup>*</sup>Das dicke, weisse Kabel im selben Paket braucht's nicht. <sup>**</sup>In manchen Kits ist der DHT22 Sensor ohne den roten Teil.
+<sup>*</sup>Das dicke, weisse Kabel im selben Paket braucht's nicht.<br/>
+<sup>**</sup>In manchen Kits ist der DHT22 Sensor ohne den roten Teil.
 
 ## Sensor und Gehäuse bauen
 https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
