@@ -87,6 +87,10 @@ Ein Stück Tape hilft, die Kabel zu fixieren - auf der Rückseite:
 ### Zwischenstand: Elektronik komplett
 <img src="https://live.staticflickr.com/65535/52189260562_b2812e12cd_b.jpg" width="480"/>
 
+Es ist gut, vor dem Einbau der Elektronik ins Rohr, alles zu testen.
+
+
+
 ### Schlauch an Feinstaub Sensor stecken
 <img src="" width="540"/>
 
