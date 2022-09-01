@@ -58,7 +58,9 @@ Der Alu Teil oben auf dem ESP8266 NodeMCU hilft bei der Orientierung.
 <img src="" width="540"/>
 
 ### DHT22 Sensor an 3-er Kabel anstecken
-Die rote Variante hat drei Anschlüsse, Farben sind wichtig:
+> Achtung: Nur für rote Variante, sonst [hier weiter](#dht22-sensor-variante-ohne-rot).
+
+Die rote Variante hat drei Pins für Kabel:
 
 GND = braun, VCC = rot, DAT = orange
 
@@ -66,7 +68,7 @@ GND = braun, VCC = rot, DAT = orange
 
 ### DHT22 Sensor (Variante ohne rot)
 
-Diese Variante des DHT22 hat vier Anschlüsse, ein Platz bleibt leer:
+Diese Variante des DHT22 hat vier Pins, ein Pin bleibt leer:
 
 VCC = rot, DAT = orange, (NC = leer), GND = braun
 
