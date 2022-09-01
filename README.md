@@ -64,7 +64,9 @@ GND = braun, VCC = rot, DAT = orange
 
 <img src="https://live.staticflickr.com/65535/52189260537_c8973c89ae_b.jpg" width="480"/>
 
-Die andere Variante hat vier Anschlüsse, ein Platz bleibt leer:
+### DHT22 Sensor (Variante ohne rot)
+
+Diese Variante des DHT22 hat vier Anschlüsse, ein Platz bleibt leer:
 
 VCC = rot, DAT = orange, (NC = leer), GND = braun
 
