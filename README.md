@@ -64,7 +64,7 @@ Die rote Variante hat drei Anschlüsse:
 
 Die andere Variante hat vier, ein Platz bleibt leer:
 
-<img src="https://live.staticflickr.com/65535/52321570598_684f144f31_b.jpg" width="480"/>
+<img src="https://live.staticflickr.com/65535/52321570598_e6090ed620_b.jpg" width="480"/>
 
 ### Zwischenstand: Elektronik komplett
 <img src="https://live.staticflickr.com/65535/52189260562_b2812e12cd_b.jpg" width="540"/>
