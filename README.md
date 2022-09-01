@@ -75,7 +75,7 @@ VCC = rot, DAT = orange, (NC = leer), GND = braun
 <img src="https://live.staticflickr.com/65535/52321570598_e6090ed620_b.jpg" width="480"/>
 
 ### Zwischenstand: Elektronik komplett
-<img src="https://live.staticflickr.com/65535/52189260562_b2812e12cd_b.jpg" width="540"/>
+<img src="https://live.staticflickr.com/65535/52189260562_b2812e12cd_b.jpg" width="480"/>
 
 ### Schlauch an Feinstaub Sensor stecken
 <img src="" width="540"/>
