@@ -59,7 +59,7 @@ D7 = orange, G = braun, 3V = rot, D2 = grau, D1 = violett
 <img src="https://live.staticflickr.com/65535/52190528124_6aa5e9a2c6_b.jpg" width="540"/>
 
 ### SDS011 Feinstaub Sensor an 4-er Kabel anstecken
-TXD = violett, RXD = grau, GND = schwarz, (2.5um = leer), 5V = weiss, (1um = leer), (NC = leer)
+TXD = violett, RXD = grau, GND = schwarz, (leer), 5V = weiss, (leer), (leer)
 
 <img src="https://live.staticflickr.com/65535/52190756335_3807218db2_b.jpg" width="540"/>
 
@@ -76,7 +76,7 @@ GND = braun, VCC = rot, DAT = orange
 
 Diese Variante des Sensors hat vier Pins, ein Pin bleibt leer:
 
-VCC = rot, DAT = orange, (NC = leer), GND = braun
+VCC = rot, DAT = orange, (leer), GND = braun
 
 <img src="https://live.staticflickr.com/65535/52321570598_e6090ed620_b.jpg" width="480"/>
 
