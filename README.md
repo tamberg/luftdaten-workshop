@@ -37,7 +37,7 @@ Die Farben der Kabel und die genaue Position sind wichtig.
 
 Der silbrige Teil oben auf dem ESP8266 NodeMCU hilft bei der Orientierung.
 
-<img src="https://live.staticflickr.com/65535/52190287993_e04a10e5da_b.jpg" width="540"/>
+<img src="https://live.staticflickr.com/65535/52190528124_6aa5e9a2c6_b.jpg" width="540"/>
 
 ### SDS011 Feinstaub Sensor an 4-er Kabel anstecken
 <img src="" width="540"/>
