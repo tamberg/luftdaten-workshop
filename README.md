@@ -28,9 +28,9 @@ Das Luftdaten Kit sollte die folgenden Teile enthalten:
 <sup>**</sup>In manchen Kits ist der DHT22 Sensor ohne den roten Teil.
 
 ### ESP8266 NodeMCU Mikrocontroller
-Dieser Mikrocontroller ist ein kleiner Computer mit Wi-Fi.
+Der ESP8266 Mikrocontroller ist ein kleiner Computer mit Internet Verbindung.
 
-Die goldene, eckige Linie oben, ist seine Wi-Fi Antenne.
+Die goldene, eckige Linie am oberen Rand, ist seine Wi-Fi Antenne.
 
 Über die Pins an den Seiten kann er Sensoren auslesen.
 
