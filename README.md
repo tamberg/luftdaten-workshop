@@ -30,7 +30,7 @@ Das Luftdaten Kit sollte die folgenden Teile enthalten:
 ### ESP8266 NodeMCU Mikrocontroller
 Der ESP8266 Mikrocontroller ist ein kleiner Computer mit Internet Verbindung.
 
-Die goldene, eckige Linie am oberen Rand, ist seine Wi-Fi Antenne.
+Die goldene, eckige Linie am oberen Rand ist seine Wi-Fi Antenne.
 
 Über die Pins an den Seiten kann er Sensoren auslesen.
 
@@ -67,7 +67,7 @@ Die andere Variante hat vier, ein Platz bleibt leer:
 <img src="https://live.staticflickr.com/65535/52321570598_684f144f31_b.jpg" width="480"/>
 
 ### Zwischenstand: Elektronik komplett
-<img src="" width="540"/>
+<img src="https://live.staticflickr.com/65535/52189260562_b2812e12cd_b.jpg" width="540"/>
 
 ### Schlauch an Feinstaub Sensor stecken
 
