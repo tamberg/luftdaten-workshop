@@ -28,9 +28,33 @@ Das Luftdaten Kit sollte die folgenden Teile enthalten:
 <sup>**</sup>In manchen Kits ist der DHT22 Sensor ohne den roten Teil.
 
 ## Sensor und Gehäuse bauen
-https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
-  * Ev. auch https://sensor.community/en/sensors/airrohr/
-  * Und https://airbg.info/en/build-a-station/
+> Achtung: Den Strom bzw. USB schliessen wir erst ganz am Schluss an, wenn alles fertig ist.
+
+### Kabel an ESP8266 NodeMCU Mikrocontroller anstecken
+Die Farben der Kabel und die genaue Position sind wichtig.
+<img src="https://live.staticflickr.com/65535/52190287993_e04a10e5da_b.jpg" width="540"/>
+
+Der silbrige Teil oben auf dem ESP8266 NodeMCU hilft bei der Orientierung.
+<img src="https://live.staticflickr.com/65535/52190287993_e04a10e5da_b.jpg" width="540"/>
+
+### SDS011 Feinstaub Sensor an 4-er Kabel anstecken
+<img src="" width="540"/>
+
+### DHT22 Sensor an 3-er Kabel anstecken
+<img src="" width="540"/>
+
+### Zwischenstand: Elektronik komplett
+<img src="" width="540"/>
+
+### Schlauch an Feinstaub Sensor stecken
+
+### Elektronik ins Rohr stecken
+<img src="" width="540"/>
+
+### Rohr zusammenstecken
+<img src="" width="540"/>
+
+Details siehe https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
 
 ## USB Treiber installieren (optional)
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers (CP210x, für NodeMCU v2)
