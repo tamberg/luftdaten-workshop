@@ -80,7 +80,7 @@ VCC = rot, DAT = orange, (leer), GND = braun
 
 <img src="https://live.staticflickr.com/65535/52321570598_e6090ed620_b.jpg" width="480"/>
 
-Ein Stück Tape hilft, die Kabel zu fixieren, auf der Rückseite:
+Ein Stück Tape hilft, die Kabel zu fixieren - auf der Rückseite:
 
 <img src="https://live.staticflickr.com/65535/52320457907_4fcb69f0cb_b.jpg" width="480"/>
 
