@@ -121,6 +121,8 @@ Zudem diesen USB Treiber https://www.silabs.com/developers/usb-to-uart-bridge-vc
 
 Und diesen Code https://github.com/opendata-stuttgart/sensors-software/blob/master/airrohr-firmware/airrohr-firmware.ino
 
+Nach dem Flashen gibt der ESP8266 NodeMCU Mikrocontroller via USB eine Sensor ID aus, diese braucht es beim Registrieren.
+
 ## Sensor Wi-Fi konfigurieren
 https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren
 * AP ID: airRohr-12345678
