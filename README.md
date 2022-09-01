@@ -70,6 +70,7 @@ Die andere Variante hat vier, ein Platz bleibt leer:
 <img src="https://live.staticflickr.com/65535/52189260562_b2812e12cd_b.jpg" width="540"/>
 
 ### Schlauch an Feinstaub Sensor stecken
+<img src="" width="540"/>
 
 ### Elektronik ins Rohr stecken
 <img src="" width="540"/>
