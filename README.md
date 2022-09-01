@@ -27,6 +27,17 @@ Das Luftdaten Kit sollte die folgenden Teile enthalten:
 <sup>*</sup>Das dicke, weisse Kabel im selben Paket braucht's nicht.<br/>
 <sup>**</sup>In manchen Kits ist der DHT22 Sensor ohne den roten Teil.
 
+### ESP8266 NodeMCU Mikrocontroller
+Dieser Mikrocontroller ist ein kleiner Computer mit Wi-Fi.
+
+<img src="https://live.staticflickr.com/65535/52190288098_0949c03e22_b.jpg" width="480"/>
+
+### SDS011 Feinstaub Sensor
+Dieser Sensor kann Feinstaub Partikel messen, ein Mass für die Luftqualität.
+
+### DHT22 Sensor
+Dieser Sensor kann die Temperatur und die Feuchtigkeit der Luft messen.
+
 ## Sensor und Gehäuse bauen
 > Achtung: Den Strom bzw. USB schliessen wir erst ganz am Schluss an, wenn alles fertig ist.
 
