@@ -96,6 +96,14 @@ Ein Stück Tape hilft, die Kabel zu fixieren - auf der Rückseite:
 ### Rohr zusammenstecken
 <img src="" width="540"/>
 
+### Fertiger Sensor
+
+Nun ist der Sensor bereit zur Montage, z.B. auf dem Balkon.
+
+Der folgende Schritt muss zu Hause nochmal durchgeführt werden:
+
+* [Sensor Wi-Fi konfigurieren](#) (für das Wi-Fi Netzwerk zu Hause)
+
 ## Sensor Firmware flashen
 > Achtung: Für den Workshop wurde die Firmware bereits auf den ESP8266 NodeMCU Mikrocontroller geflasht.
 
