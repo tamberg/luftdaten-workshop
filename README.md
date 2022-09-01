@@ -35,7 +35,7 @@ Die Farben der Kabel und die genaue Position sind wichtig.
 
 <img src="https://live.staticflickr.com/65535/52190287993_e04a10e5da_b.jpg" width="540"/>
 
-Der silbrige Teil oben auf dem ESP8266 NodeMCU hilft bei der Orientierung.
+Der Alu Teil oben auf dem ESP8266 NodeMCU hilft bei der Orientierung.
 
 <img src="https://live.staticflickr.com/65535/52190528124_6aa5e9a2c6_b.jpg" width="540"/>
 
