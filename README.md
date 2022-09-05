@@ -34,7 +34,7 @@ Die goldene, eckige Linie am oberen Rand ist seine Wi-Fi Antenne.
 
 Über die Pins an den Seiten kann er Sensoren auslesen.
 
-<img src="https://live.staticflickr.com/65535/52190288098_0949c03e22_b.jpg" width="480"/>
+<img src="https://live.staticflickr.com/65535/52335798266_52f71578d8_b.jpg" width="480"/>
 
 ### SDS011 Feinstaub Sensor
 Dieser Sensor kann Feinstaub Partikel messen, ein Mass für die Luftqualität.
