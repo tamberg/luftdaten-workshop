@@ -39,7 +39,7 @@ Die goldene, eckige Linie am oberen Rand ist seine Wi-Fi Antenne.
 ### SDS011 Feinstaub Sensor
 Dieser Sensor kann Feinstaub Partikel messen, ein Mass für die Luftqualität.
 
-<img src="https://live.staticflickr.com/65535/52336094894_03777b0b4f_b.jpg" width="480"/>
+<img src="https://live.staticflickr.com/65535/52337070891_cd64972461_b.jpg" width="540"/>
 
 ### DHT22 Sensor
 Dieser Sensor kann die Temperatur und die Feuchtigkeit der Luft messen.
