@@ -45,6 +45,7 @@ Dieser Sensor kann Feinstaub Partikel messen, ein Mass für die Luftqualität.
 Dieser Sensor kann die Temperatur und die Feuchtigkeit der Luft messen.
 
 <img src="https://live.staticflickr.com/65535/52320457952_60a494bd82_b.jpg" width="480"/>
+In manchen Kits ist der DHT22 Sensor ohne den roten Teil.
 
 ## Sensor und Gehäuse bauen
 > Achtung: Den Strom bzw. USB erst anschliessen, wenn die Elektronik fertig verkabelt ist.
