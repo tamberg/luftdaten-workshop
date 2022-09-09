@@ -130,10 +130,12 @@ Und diesen Code https://github.com/opendata-stuttgart/sensors-software/blob/mast
 Nach dem Flashen gibt der ESP8266 NodeMCU Mikrocontroller via USB eine Sensor ID aus, diese braucht es beim Registrieren.
 
 ## Sensor Wi-Fi konfigurieren
-https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren
-* AP ID: airRohr-12345678
+> Achtung: Für den Workshop steht die eigene Sensor-ID auf dem Zettel im Kit, z.B. airRohr-12345678
 
-Siehe auch https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
+* Den Sensor bzw. ESP8266 NodeMCU Mikrocontroller via USB Kabel und Adapter an Steckdose anschliessen
+* Nach ca. 1 Minute erscheint ein neues Wi-Fi Netzwerk mit airRohr-<Sensor-ID>, z.B. airRohr-12345678
+
+Siehe auch https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren und https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
 
 ## Sensor bei Community registrieren
 https://devices.sensor.community/sensors/register
