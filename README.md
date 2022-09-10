@@ -133,7 +133,7 @@ Nach dem Flashen gibt der ESP8266 NodeMCU Mikrocontroller via USB eine Sensor ID
 > Achtung: Für den Workshop steht die eigene Sensor-ID auf dem Zettel im Kit, z.B. airRohr-12345678
 
 * Den Sensor bzw. ESP8266 NodeMCU Mikrocontroller via USB Kabel und Adapter an Steckdose anschliessen
-* Nach ca. 1 Minute erscheint ein neues Wi-Fi Netzwerk mit `airRohr-<Sensor-ID>, z.B. airRohr-12345678
+* Nach ca. 1 Minute erscheint ein neues Wi-Fi Netzwerk mit `airRohr-<Sensor-ID>`, z.B. airRohr-12345678
 * Mit Smartphone auf dieses Wi-Fi Netzwerk bzw. Access Point verbinden, um den Sensor zu konfigurieren
 
 Siehe auch https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren und https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
