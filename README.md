@@ -109,9 +109,9 @@ Mit kleinem Kabelbinder, von unten her, wie gezeigt.
 
 <img src="https://live.staticflickr.com/65535/52357543419_74f65da367_b.jpg" width="480"/>
 
-<img src="https://live.staticflickr.com/65535/52357543419_74f65da367_b.jpg" width="480"/>
+<img src="https://live.staticflickr.com/65535/52357650645_a9e12664f4_b.jpg" width="480"/>
 
-<img src="https://live.staticflickr.com/65535/52357543419_74f65da367_b.jpg" width="480"/>
+<img src="https://live.staticflickr.com/65535/52357227836_6342dc3bc7_b.jpg" width="480"/>
 
 ### DHT22 Sensor an Schlauch fixieren
 Mit kleinem Kabelbinder, in der Mitte des Schlauchs.
