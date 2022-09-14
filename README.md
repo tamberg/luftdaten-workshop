@@ -102,12 +102,16 @@ Dazu braucht es die folgenden Schritte:
 * [Sensor bei Community registrieren](#sensor-bei-community-registrieren) (um eigene Daten zu finden)
 
 ### Schlauch an Feinstaub Sensor anstecken
-<img src="" width="540"/>
+<img src="https://live.staticflickr.com/65535/52356278782_6ae04e7ab3_b.jpg" width="540"/>
 
 ### ESP8266 an Feinstaub Sensor fixieren
 Mit kleinem Kabelbinder, von unten her, wie gezeigt.
 
-<img src="" width="540"/>
+<img src="https://live.staticflickr.com/65535/52357543419_74f65da367_b.jpg" width="480"/>
+
+<img src="https://live.staticflickr.com/65535/52357543419_74f65da367_b.jpg" width="480"/>
+
+<img src="https://live.staticflickr.com/65535/52357543419_74f65da367_b.jpg" width="480"/>
 
 ### DHT22 Sensor an Schlauch fixieren
 Mit kleinem Kabelbinder, in der Mitte des Schlauchs.
