@@ -132,7 +132,7 @@ Vorsichtig, gut ineinanderschieben.
 
 <img src="https://live.staticflickr.com/65535/52356276632_7dba6a9000_b.jpg" width="540"/>
 
-Den DHT11 Sensor, falls er rausschaut wie hier, allenfalls noch ins Rohr schieben.
+Den DHT11 Sensor, falls er rausschaut wie hier, ins Rohr schieben.
 
 ### Rohrenden schützen
 Blaues Gitter mit Kabelbinder am Rohr befestigen.
