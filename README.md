@@ -101,13 +101,37 @@ Dazu braucht es die folgenden Schritte:
 * [Sensor Wi-Fi konfigurieren](#sensor-wi-fi-konfigurieren) (für das Wi-Fi Netzwerk im Workshop)
 * [Sensor bei Community registrieren](#sensor-bei-community-registrieren) (um eigene Daten zu finden)
 
-### Schlauch an Feinstaub Sensor stecken
+### Schlauch an Feinstaub Sensor anstecken
 <img src="" width="540"/>
 
-### Elektronik ins Rohr stecken
+### ESP8266 an Feinstaub Sensor fixieren
+Mit kleinem Kabelbinder, von unten her, wie gezeigt.
+
 <img src="" width="540"/>
 
-### Rohr zusammenstecken
+### DHT22 Sensor an Schlauch fixieren
+Mit kleinem Kabelbinder, in der Mitte des Schlauchs.
+
+<img src="" width="540"/>
+
+### USB Kabel an ESP8266 anstecken
+USB Kabel vorher ins Rohr einfädeln.
+
+<img src="" width="540"/>
+
+### Elektronik in Rohr stecken
+<img src="" width="540"/>
+
+### Rohre zusammenstecken
+Vorsichtig, gut ineinanderschieben.
+
+<img src="" width="540"/>
+
+### Rohrenden schützen
+Blaues Gitter mit Kabelbinder am Rohr befestigen.
+
+Loch für Schlauch bzw. Kabel schneiden.
+
 <img src="" width="540"/>
 
 ### Fertiger Sensor
