@@ -113,12 +113,12 @@ Mit kleinem Kabelbinder, von unten her, wie gezeigt.
 
 <img src="https://live.staticflickr.com/65535/52357227836_6342dc3bc7_b.jpg" width="540"/>
 
-<img src="https://live.staticflickr.com/65535/52357542294_968aec5bfe_b.jpg" width="540"/>
+<img src="https://live.staticflickr.com/65535/52357542294_968aec5bfe_b.jpg" width="480"/>
 
 ### DHT22 Sensor an Schlauch fixieren
 Mit kleinem Kabelbinder, in der Mitte des Schlauchs.
 
-<img src="" width="540"/>
+<img src="https://live.staticflickr.com/65535/52356277437_00f39be482_b.jpg" width="480"/>
 
 ### USB Kabel an ESP8266 anstecken
 USB Kabel vorher ins Rohr einfädeln.
@@ -131,7 +131,11 @@ USB Kabel vorher ins Rohr einfädeln.
 ### Rohre zusammenstecken
 Vorsichtig, gut ineinanderschieben.
 
-<img src="" width="540"/>
+<img src="https://live.staticflickr.com/65535/52357541599_3201009263_b.jpg" width="540"/>
+
+<img src="https://live.staticflickr.com/65535/52356276632_7dba6a9000_b.jpg" width="540"/>
+
+Den DHT11 Sensor, falls er rausschaut wie hier, allenfalls noch ins Rohr schieben.
 
 ### Rohrenden schützen
 Blaues Gitter mit Kabelbinder am Rohr befestigen.
@@ -141,8 +145,9 @@ Loch für Schlauch bzw. Kabel schneiden.
 <img src="" width="540"/>
 
 ### Fertiger Sensor
-
 Nun ist der Luftdaten Sensor bereit zur Montage, z.B. auf dem Balkon.
+
+<img src="https://live.staticflickr.com/65535/52357225731_d86e0d1483_b.jpg" width="540"/>
 
 Der folgende Schritt muss zu Hause nochmal durchgeführt werden:
 
