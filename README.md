@@ -123,12 +123,9 @@ Mit kleinem Kabelbinder, in der Mitte des Schlauchs.
 ### USB Kabel an ESP8266 anstecken
 USB Kabel vorher ins Rohr einfädeln.
 
-<img src="" width="540"/>
+<img src="https://live.staticflickr.com/65535/52356277102_8d0efc542f_b.jpg" width="540"/>
 
 ### Elektronik in Rohr stecken
-<img src="" width="540"/>
-
-### Rohre zusammenstecken
 Vorsichtig, gut ineinanderschieben.
 
 <img src="https://live.staticflickr.com/65535/52357541599_3201009263_b.jpg" width="540"/>
