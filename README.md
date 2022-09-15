@@ -7,7 +7,7 @@ Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattf
 
 <img src="https://live.staticflickr.com/65535/52190850590_b975aff403_o.gif"/>
 
-Hier ein kurzes <a href="https://www.flickr.com/photos/tamberg/52358458180" target="_blank">Video das den Zusammenbau des Sensors zeigt</a>.
+Hier ein kurzes <a href="https://www.flickr.com/photos/tamberg/52358458180" target="_blank">Video, das den Zusammenbau des Sensors zeigt</a>.
 
 ## Material auspacken und prüfen
 Das Luftdaten Kit sollte die folgenden Teile enthalten:
