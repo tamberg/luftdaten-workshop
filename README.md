@@ -7,7 +7,7 @@ Publiziert Daten auf die [Sensor.Community](https://sensor.community/de/) Plattf
 
 <img src="https://live.staticflickr.com/65535/52190850590_b975aff403_o.gif"/>
 
-QR Code zu diesem Workshop, zum Weitergeben per Smartphone.
+QR Code zu diesem Workshop, zur Weitergabe per Smartphone.
 
 ## Video des Zusammenbaus ansehen
 
