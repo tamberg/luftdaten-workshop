@@ -139,10 +139,19 @@ Blaues Gitter mit Kabelbinder am Rohr befestigen.
 
 Loch für Schlauch bzw. Kabel schneiden.
 
+<img src="https://live.staticflickr.com/65535/52357086152_bc9db359c7_b.jpg" width="540"/>
+
+### Aufhänger anbringen
+Grosser Kabelbinder auf der dünnen Seite in Rohrmitte.
+
+Dann kleiner Kabelbinder, halb offen, als Öse.
+
+<img src="https://live.staticflickr.com/65535/52358458680_c9cdab6326_b.jpg" width="540"/>
+
 ### Fertiger Sensor
 Nun ist der Luftdaten Sensor bereit zur Montage, z.B. auf dem Balkon.
 
-<img src="https://live.staticflickr.com/65535/52357225731_d86e0d1483_b.jpg" width="540"/>
+<img src="https://live.staticflickr.com/65535/52358273033_64438e140e_b.jpg" width="540"/>
 
 Der folgende Schritt muss zu Hause nochmal durchgeführt werden:
 
