@@ -11,7 +11,7 @@ QR Code zu diesem Workshop, zum Weitergeben per Smartphone.
 
 ## Video des Zusammenbaus ansehen
 
-Hier ein kurzes <a href="https://www.flickr.com/photos/tamberg/52358458180" target="_blank">Video, das den Zusammenbau des Sensors zeigt</a>.
+Dieses kurze Video zeigt den <a href="https://www.flickr.com/photos/tamberg/52358458180" target="_blank">Zusammenbau des Sensors</a>.
 
 ## Material auspacken und prüfen
 Das Luftdaten Kit sollte die folgenden Teile enthalten:
