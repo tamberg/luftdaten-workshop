@@ -52,7 +52,7 @@ Dieser Sensor kann die Temperatur und die Feuchtigkeit der Luft messen.
 
 In manchen Kits ist der DHT22 Sensor ohne den roten Teil.
 
-Beide Varianten messen genau das Gleiche.
+Beide Varianten messen genau das gleiche.
 
 <img src="https://live.staticflickr.com/65535/52320457952_60a494bd82_b.jpg" width="480"/>
 
