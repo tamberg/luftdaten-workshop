@@ -236,7 +236,7 @@ Danach etwas weiter nach unten scrollen.
 ### Sensor Koordinaten auswählen
 Wohnadresse (optional) oder ungefähre Koordinaten des Sensors eingeben.
 
-Diese Information wird benutzt, um die Sensor Daten auf einer Karte im Internet anzuzeigen.
+Diese Information wird benutzt, um die Sensor Daten auf der [Karte](#sensor-community-karte-mit-daten-anzeigen) anzuzeigen.
 
 <img src="https://live.staticflickr.com/65535/52345905705_a9e119cff5_b.jpg" width="320"/>
 
