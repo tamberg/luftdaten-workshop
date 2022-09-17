@@ -179,11 +179,33 @@ Nach dem Flashen gibt der ESP8266 NodeMCU Mikrocontroller via USB eine Sensor ID
 ## Sensor Wi-Fi konfigurieren
 > Achtung: Für den Workshop steht die eigene Sensor-ID auf dem Zettel im Kit, z.B. airRohr-12345678
 
-* Den Sensor bzw. ESP8266 NodeMCU Mikrocontroller via USB Kabel und Adapter an Steckdose anschliessen
-* Nach ca. 1 Minute erscheint ein neues Wi-Fi Netzwerk mit `airRohr-<Sensor-ID>`, z.B. airRohr-12345678
-* Mit Smartphone auf dieses Wi-Fi Netzwerk bzw. Access Point verbinden, um den Sensor zu konfigurieren
+### Sensor an Strom anschliessen
+Den Sensor bzw. ESP8266 NodeMCU Mikrocontroller via USB Kabel und Adapter an Steckdose anschliessen
 
-Siehe auch https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren und https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf
+### Sensor Wi-Fi Netzwerk abwarten
+Nach ca. 1 Minute erscheint ein neues Wi-Fi Netzwerk mit `airRohr-<Sensor-ID>`, z.B. _airRohr-12345678_.
+
+### Sensor Wi-Fi Netzwerk verbinden
+Mit dem Smartphone auf dieses Wi-Fi Netzwerk bzw. Access Point verbinden, um den Sensor zu konfigurieren.
+
+### Sensor Hardware konfigurieren
+Hardware 
+
+<img src="https://live.staticflickr.com/65535/52345722873_91ee794121_b.jpg" width="480"/>
+
+### Sensor-ID konfigurieren
+Die Sensor-ID als Zahl, ohne den Teil airRohr- eingeben.
+
+<img src="https://live.staticflickr.com/65535/52345783694_f1987a1876_b.jpg" width="480"/>
+
+### Sensor Koordinaten auswählen
+Wohnadresse (optional) oder ungefähre Koordinaten des Sensors eingeben.
+
+Diese Information wird benutzt, um die Sensor Daten auf einer Karte im Internet anzuzeigen.
+
+<img src="https://live.staticflickr.com/65535/52345905705_a9e119cff5_b.jpg" width="480"/>
+
+Mehr Details zur Konfiguration gibt es [hier](https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren) und [hier](https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf).
 
 ## Sensor bei Community registrieren
 https://devices.sensor.community/sensors/register
