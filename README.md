@@ -217,7 +217,7 @@ Das Registrieren des Sensors erfolgt auf dieser Webseite:
 
 https://devices.sensor.community/sensors/register
 
-So wird der Sensor Teil der Community.
+So kann der Sensor Daten zur [Karte](#sensor-community-karte-mit-daten-anzeigen) beitragen.
 
 ### Sensor Hardware konfigurieren
 Als Hardware sollten bereits die Sensor Typen _SDS011_ und _DHT22_ ausgwählt sein.
