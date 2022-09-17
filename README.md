@@ -194,6 +194,11 @@ Der Sensor ist während 5 Minuten als Access Point zugänglich, danach schaltet 
 
 Um das Netzwerk erneut zu zeigen, einfach den Strom nochmal aus- und wieder einstecken.
 
+## Sensor bei Community registrieren
+Das Registrieren des Sensors erfolgt auf dieser Webseite:
+
+https://devices.sensor.community/sensors/register
+
 ### Sensor Hardware konfigurieren
 Als Hardware sollten bereits die Sensor Typen _SDS011_ und _DHT22_ ausgwählt sein.
 
@@ -219,9 +224,6 @@ Diese Information wird benutzt, um die Sensor Daten auf einer Karte im Internet 
 Am Schluss die Sensor Konfiguration abspeichern mit _Save settings_.
 
 Fragen? Hier gibt es weitere [Details zur Konfiguration](https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren).
-
-## Sensor bei Community registrieren
-https://devices.sensor.community/sensors/register
 
 ## Sensor Community Karte mit Daten anzeigen
 https://maps.sensor.community/#12/47.3775/8.5367
