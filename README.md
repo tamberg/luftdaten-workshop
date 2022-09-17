@@ -190,7 +190,7 @@ Es ist wichtig, auf die eigene Sensor-ID zu verbinden, nicht einen anderen Senso
 ### Sensor Wi-Fi Netzwerk verbinden
 Mit dem Smartphone zeitnah auf dieses Wi-Fi Netzwerk bzw. Access Point verbinden, um den Sensor zu konfigurieren.
 
-Der Sensor ist während 5 Minuten als Access Point zugänglich, danach schaltet er das Netzwerk aus.
+Der Sensor ist während 5 Minuten als Access Point zugänglich, danach schaltet er das Netzwerk wieder aus.
 
 Um das Netzwerk erneut zu zeigen, einfach den Strom nochmal aus- und wieder einstecken.
 
