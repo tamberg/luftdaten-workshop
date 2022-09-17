@@ -195,14 +195,14 @@ Um das Netzwerk erneut zu zeigen, einfach den Strom nochmal aus- und wieder eins
 ### Sensor Hardware konfigurieren
 Als Hardware sollten bereits die Sensor Typen _SDS011_ und _DHT22_ ausgwählt sein.
 
-<img src="https://live.staticflickr.com/65535/52345722873_91ee794121_b.jpg" width="480"/>
+<img src="https://live.staticflickr.com/65535/52345722873_91ee794121_b.jpg" width="320"/>
 
 Danach etwas weiter nach unten scrollen.
 
 ### Sensor-ID konfigurieren
 Die Sensor-ID als Zahl, ohne den Teil _airRohr-_ eingeben.
 
-<img src="https://live.staticflickr.com/65535/52345783694_f1987a1876_b.jpg" width="480"/>
+<img src="https://live.staticflickr.com/65535/52345783694_f1987a1876_b.jpg" width="320"/>
 
 Danach etwas weiter nach unten scrollen.
 
@@ -211,7 +211,7 @@ Wohnadresse (optional) oder ungefähre Koordinaten des Sensors eingeben.
 
 Diese Information wird benutzt, um die Sensor Daten auf einer Karte im Internet anzuzeigen.
 
-<img src="https://live.staticflickr.com/65535/52345905705_a9e119cff5_b.jpg" width="480"/>
+<img src="https://live.staticflickr.com/65535/52345905705_a9e119cff5_b.jpg" width="320"/>
 
 ### Sensor Konfiguration abspeichern
 Am Schluss die Sensor Konfiguration abspeichern mit _Save settings_.
