@@ -224,7 +224,7 @@ Die Sensor-ID als Zahl, ohne den Teil _airRohr-_ eingeben.
 
 Als Sensor Board muss _esp8266_ ausgewählt sein.
 
-Die Wohnadresse ist optional.
+Angaben zur Wohnadresse sind optional.
 
 <img src="https://live.staticflickr.com/65535/52345783694_f1987a1876_b.jpg" width="320"/>
 
