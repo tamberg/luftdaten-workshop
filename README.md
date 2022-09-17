@@ -208,7 +208,7 @@ Das Passwort für das permanente Wi-Fi Netzwerk eingeben, z.B. _MY_PASSWORD_.
 ### Zwischenstand: Sensor verbunden
 Nun versucht der Sensor, sich mit dem permanenten Wi-Fi zu verbinden.
 
-Falls es klappt, ist der Access Point nicht mehr sichtbar.
+Falls das geklappt hat, ist der Access Point nicht mehr sichtbar.
 
 (Sonst einfach nochmal [auf Access Point verbinden](#wi-fi-access-point-verbinden).)
 
@@ -216,6 +216,8 @@ Falls es klappt, ist der Access Point nicht mehr sichtbar.
 Das Registrieren des Sensors erfolgt auf dieser Webseite:
 
 https://devices.sensor.community/sensors/register
+
+So wird der Sensor Teil der Community.
 
 ### Sensor Hardware konfigurieren
 Als Hardware sollten bereits die Sensor Typen _SDS011_ und _DHT22_ ausgwählt sein.
@@ -244,6 +246,8 @@ Am Schluss die Sensor Konfiguration abspeichern mit _Save settings_.
 Fragen? Hier gibt es weitere [Details zur Konfiguration](https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren).
 
 ## Sensor Community Karte mit Daten anzeigen
+Durch das [Registrieren](#sensor-bei-community-registrieren) erscheint der Sensor auf der Karte:
+
 https://maps.sensor.community/#12/47.3775/8.5367
 
 ## Sensor Community Forum
