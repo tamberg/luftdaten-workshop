@@ -222,6 +222,8 @@ So kann der Sensor Daten zur [Karte](#sensor-community-karte-mit-daten-anzeigen)
 ### Sensor-ID konfigurieren
 Die Sensor-ID als Zahl, ohne den Teil _airRohr-_ eingeben.
 
+Als Sensor Board muss _esp8266_ ausgewählt sein.
+
 <img src="https://live.staticflickr.com/65535/52345783694_f1987a1876_b.jpg" width="320"/>
 
 Danach etwas weiter nach unten scrollen.
