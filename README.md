@@ -194,7 +194,7 @@ Hardware
 <img src="https://live.staticflickr.com/65535/52345722873_91ee794121_b.jpg" width="480"/>
 
 ### Sensor-ID konfigurieren
-Die Sensor-ID als Zahl, ohne den Teil airRohr- eingeben.
+Die Sensor-ID als Zahl, ohne den Teil _airRohr-_ eingeben.
 
 <img src="https://live.staticflickr.com/65535/52345783694_f1987a1876_b.jpg" width="480"/>
 
