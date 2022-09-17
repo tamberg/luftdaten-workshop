@@ -205,7 +205,7 @@ Diese Information wird benutzt, um die Sensor Daten auf einer Karte im Internet 
 
 <img src="https://live.staticflickr.com/65535/52345905705_a9e119cff5_b.jpg" width="480"/>
 
-Mehr Details zur Konfiguration gibt es [hier](https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren) und [hier](https://github.com/opendata-stuttgart/meta/blob/master/flyer/assemble_station.150dpi.pdf).
+Hier gibt es weitere [Tipps zur Konfiguration](https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren).
 
 ## Sensor bei Community registrieren
 https://devices.sensor.community/sensors/register
