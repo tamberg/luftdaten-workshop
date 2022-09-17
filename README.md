@@ -216,7 +216,7 @@ Diese Information wird benutzt, um die Sensor Daten auf einer Karte im Internet 
 ### Sensor Konfiguration abspeichern
 Am Schluss die Sensor Konfiguration abspeichern mit _Save settings_.
 
-Hier gibt es weitere [Details zur Konfiguration](https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren).
+Fragen? Hier gibt es weitere [Details zur Konfiguration](https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren).
 
 ## Sensor bei Community registrieren
 https://devices.sensor.community/sensors/register
