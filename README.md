@@ -177,7 +177,7 @@ Und diesen Code https://github.com/opendata-stuttgart/sensors-software/blob/mast
 Nach dem Flashen gibt der ESP8266 NodeMCU Mikrocontroller via USB eine Sensor ID aus, diese braucht es beim Registrieren.
 
 ## Sensor Wi-Fi konfigurieren
-> Achtung: Für den Workshop steht die eigene Sensor-ID auf dem Zettel im Kit, z.B. airRohr-12345678
+> Achtung: Für den Workshop steht die eigene Sensor-ID auf dem Zettel im Kit, z.B. _airRohr-12345678_
 
 ### Sensor an Strom anschliessen
 Den Sensor bzw. ESP8266 NodeMCU Mikrocontroller via USB Kabel und Adapter an Steckdose anschliessen.
