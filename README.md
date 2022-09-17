@@ -243,16 +243,16 @@ Diese Information wird benutzt, um die Sensor Daten auf der [Karte](#sensor-comm
 ### Sensor Konfiguration abspeichern
 Am Schluss die Sensor Konfiguration abspeichern mit _Save settings_.
 
-Fragen? Hier gibt es weitere [Details zur Konfiguration](https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren).
+(Hier gibt es weitere [Details zur Konfiguration](https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren).)
 
 ## Sensor Community Karte mit Daten anzeigen
-Durch das [Registrieren](#sensor-bei-community-registrieren) erscheint der Sensor auf der Sensor Community Karte:
+Durch das [Registrieren](#sensor-bei-community-registrieren) erscheint der Sensor auf dieser Karte:
 
 https://maps.sensor.community/#12/47.3775/8.5367
 
 <img src="https://live.staticflickr.com/65535/52363908568_a64eb21722_b.jpg" width="640"/>
 
 ## Sensor Community Forum
-Für Fragen und Hilfe zu Hause gibt es ein Community Forum:
+Für weitere Hilfe und Diskussionen zu Luftdaten gibt es das Sensor Community Forum:
 
 https://forum.sensor.community/
