@@ -210,7 +210,7 @@ Nun versucht der Sensor, sich mit dem permanenten Wi-Fi zu verbinden.
 
 Falls das geklappt hat, ist der Access Point nicht mehr sichtbar.
 
-(Sonst einfach nochmal [auf Access Point verbinden](#wi-fi-access-point-verbinden).)
+(Sonst einfach nochmal [auf Access Point verbinden](#auf-sensor-wi-fi-access-point-verbinden).)
 
 ## Sensor bei Community registrieren
 Das Registrieren des Sensors erfolgt auf dieser Webseite:
