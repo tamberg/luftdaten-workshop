@@ -219,17 +219,17 @@ https://devices.sensor.community/sensors/register
 
 So kann der Sensor Daten zur [Karte](#sensor-community-karte-mit-daten-anzeigen) beitragen.
 
-### Sensor Hardware konfigurieren
-Als Hardware sollten bereits die Sensor Typen _SDS011_ und _DHT22_ ausgwählt sein.
-
-<img src="https://live.staticflickr.com/65535/52345722873_91ee794121_b.jpg" width="320"/>
-
-Danach etwas weiter nach unten scrollen.
-
 ### Sensor-ID konfigurieren
 Die Sensor-ID als Zahl, ohne den Teil _airRohr-_ eingeben.
 
 <img src="https://live.staticflickr.com/65535/52345783694_f1987a1876_b.jpg" width="320"/>
+
+Danach etwas weiter nach unten scrollen.
+
+### Sensor Hardware konfigurieren
+Als Hardware sollten bereits die Sensor Typen _SDS011_ und _DHT22_ ausgwählt sein.
+
+<img src="https://live.staticflickr.com/65535/52345722873_91ee794121_b.jpg" width="320"/>
 
 Danach etwas weiter nach unten scrollen.
 
