@@ -250,5 +250,7 @@ Durch das [Registrieren](#sensor-bei-community-registrieren) erscheint der Senso
 
 https://maps.sensor.community/#12/47.3775/8.5367
 
+<img src="https://live.staticflickr.com/65535/52363908568_a64eb21722_b.jpg" width="540"/>
+
 ## Sensor Community Forum
 https://forum.sensor.community/
