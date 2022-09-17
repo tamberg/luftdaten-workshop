@@ -180,23 +180,31 @@ Nach dem Flashen gibt der ESP8266 NodeMCU Mikrocontroller via USB eine Sensor ID
 > Achtung: Für den Workshop steht die eigene Sensor-ID auf dem Zettel im Kit, z.B. airRohr-12345678
 
 ### Sensor an Strom anschliessen
-Den Sensor bzw. ESP8266 NodeMCU Mikrocontroller via USB Kabel und Adapter an Steckdose anschliessen
+Den Sensor bzw. ESP8266 NodeMCU Mikrocontroller via USB Kabel und Adapter an Steckdose anschliessen.
 
 ### Sensor Wi-Fi Netzwerk abwarten
 Nach ca. 1 Minute erscheint ein neues Wi-Fi Netzwerk mit `airRohr-<Sensor-ID>`, z.B. _airRohr-12345678_.
 
 ### Sensor Wi-Fi Netzwerk verbinden
-Mit dem Smartphone auf dieses Wi-Fi Netzwerk bzw. Access Point verbinden, um den Sensor zu konfigurieren.
+Mit dem Smartphone zeitnah auf dieses Wi-Fi Netzwerk bzw. Access Point verbinden, um den Sensor zu konfigurieren.
+
+Der Sensor ist während 5 Minuten als Access Point zugänglich, danach schaltet er das Netzwerk aus.
+
+Um das Netzwerk erneut zu zeigen, einfach den Strom nochmal aus- und wieder einstecken.
 
 ### Sensor Hardware konfigurieren
-Hardware 
+Als Hardware sollten bereits die Sensor Typen _SDS011_ und _DHT22_ ausgwählt sein.
 
 <img src="https://live.staticflickr.com/65535/52345722873_91ee794121_b.jpg" width="480"/>
+
+Danach etwas weiter nach unten scrollen.
 
 ### Sensor-ID konfigurieren
 Die Sensor-ID als Zahl, ohne den Teil _airRohr-_ eingeben.
 
 <img src="https://live.staticflickr.com/65535/52345783694_f1987a1876_b.jpg" width="480"/>
+
+Danach etwas weiter nach unten scrollen.
 
 ### Sensor Koordinaten auswählen
 Wohnadresse (optional) oder ungefähre Koordinaten des Sensors eingeben.
@@ -205,7 +213,10 @@ Diese Information wird benutzt, um die Sensor Daten auf einer Karte im Internet 
 
 <img src="https://live.staticflickr.com/65535/52345905705_a9e119cff5_b.jpg" width="480"/>
 
-Hier gibt es weitere [Tipps zur Konfiguration](https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren).
+### Sensor Konfiguration abspeichern
+Am Schluss die Sensor Konfiguration abspeichern mit _Save settings_.
+
+Hier gibt es weitere [Details zur Konfiguration](https://github.com/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren).
 
 ## Sensor bei Community registrieren
 https://devices.sensor.community/sensors/register
