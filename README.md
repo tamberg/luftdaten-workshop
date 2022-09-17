@@ -185,9 +185,7 @@ Den Sensor bzw. ESP8266 NodeMCU Mikrocontroller via USB Kabel und Adapter an Ste
 ### Sensor Wi-Fi Netzwerk abwarten
 Nach ca. 1 Minute erscheint ein neues Wi-Fi Netzwerk mit `airRohr-<Sensor-ID>`, z.B. _airRohr-12345678_.
 
-Es ist wichtig, auf den eigenen Sensor zu verbinden, nicht einen anderen Sensor im selben Raum.
-
-Für den Workshop steht die eigene Sensor-ID auf dem Zettel im Kit, z.B. airRohr-12345678
+Es ist wichtig, auf die eigene Sensor-ID zu verbinden, nicht einen anderen Sensor im selben Raum.
 
 ### Sensor Wi-Fi Netzwerk verbinden
 Mit dem Smartphone zeitnah auf dieses Wi-Fi Netzwerk bzw. Access Point verbinden, um den Sensor zu konfigurieren.
