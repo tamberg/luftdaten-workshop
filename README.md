@@ -182,17 +182,35 @@ Nach dem Flashen gibt der ESP8266 NodeMCU Mikrocontroller via USB eine Sensor ID
 ### Sensor an Strom anschliessen
 Den Sensor bzw. ESP8266 NodeMCU Mikrocontroller via USB Kabel und Adapter an Steckdose anschliessen.
 
-### Sensor Wi-Fi Netzwerk abwarten
-Nach ca. 1 Minute erscheint ein neues Wi-Fi Netzwerk mit `airRohr-<Sensor-ID>`, z.B. _airRohr-12345678_.
+### Sensor Wi-Fi Access Point abwarten
+Nach ca. 1 Minute erscheint ein neues Wi-Fi Netzwerk bzw. ein Access Point mit `airRohr-<Sensor-ID>`, z.B. _airRohr-12345678_.
 
 Es ist wichtig, auf die eigene Sensor-ID zu verbinden, nicht einen anderen Sensor im selben Raum.
 
-### Sensor Wi-Fi Netzwerk verbinden
+### Auf Sensor Wi-Fi Access Point verbinden
 Mit dem Smartphone zeitnah auf dieses Wi-Fi Netzwerk bzw. Access Point verbinden, um den Sensor zu konfigurieren.
 
 Der Sensor ist während 5 Minuten als Access Point zugänglich, danach schaltet er das Netzwerk wieder aus.
 
-Um das Netzwerk erneut zu zeigen, einfach den Strom nochmal aus- und wieder einstecken.
+(Um das Netzwerk erneut zu zeigen, einfach den Strom nochmal aus- und wieder einstecken.)
+
+### Seite mit Wi-Fi Netzwerken wird angezeigt
+Nach dem Verbinden auf das Wi-Fi Netzwerk bzw. den Access Point erscheint eine Webseite.
+
+Hier werden alle für den Sensor sichtbaren Wi-Fi Netzwerke in der Umgebung aufgelistet.
+
+### Wi-Fi Netzwerk auswählen
+Aus der Liste ein permanentes Wi-Fi Netzwerk für den Sensor wählen, z.B. _MY_SSID_.
+
+### Wi-Fi Passwort eingeben
+Das Passwort für das permanente Wi-Fi Netzwerk eingeben, z.B. _MY_PASSWORD_.
+
+### Zwischenstand: Sensor verbunden
+Nun versucht der Sensor, sich mit dem permanenten Wi-Fi zu verbinden.
+
+Falls es klappt, ist der Access Point nicht mehr sichtbar.
+
+(Sonst einfach nochmal [auf Access Point verbinden](#wi-fi-access-point-verbinden).)
 
 ## Sensor bei Community registrieren
 Das Registrieren des Sensors erfolgt auf dieser Webseite:
