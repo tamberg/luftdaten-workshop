@@ -192,7 +192,7 @@ Mit dem Smartphone zeitnah auf dieses Wi-Fi Netzwerk bzw. Access Point verbinden
 
 Der Sensor ist während 5 Minuten als Access Point zugänglich, danach schaltet er das Netzwerk wieder aus.
 
-(Um das Netzwerk erneut zu zeigen, einfach den Strom nochmal aus- und wieder einstecken.)
+(Um den Access Point erneut zu zeigen, einfach den Strom nochmal aus- und wieder einstecken.)
 
 ### Seite mit Wi-Fi Netzwerken wird angezeigt
 Nach dem Verbinden auf das Wi-Fi Netzwerk bzw. den Access Point erscheint eine Webseite.
