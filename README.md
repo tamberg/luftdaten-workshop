@@ -253,6 +253,9 @@ https://maps.sensor.community/#12/47.3775/8.5367
 <img src="https://live.staticflickr.com/65535/52363908568_a64eb21722_b.jpg" width="640"/>
 
 ## Sensor Community Forum
-Für weitere Hilfe und Diskussionen zu Luftdaten gibt es das Sensor Community Forum:
+Für Hilfe und Diskussionen auf Englisch gibt es dieses Forum:
 
 https://forum.sensor.community/
+
+## Kontakt
+Fragen zu diesem Workshop gerne an [@tamberg](https://twitter.com/tamberg).
