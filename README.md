@@ -236,7 +236,7 @@ Als Hardware sollten bereits die Sensor Typen _SDS011_ und _DHT22_ ausgwählt se
 Danach etwas weiter nach unten scrollen.
 
 ### Sensor Koordinaten auswählen
-Wohnadresse (optional) oder ungefähre Koordinaten des Sensors eingeben.
+Entweder die Wohnadresse (oben) oder ungefähre Koordinaten des Sensors eingeben.
 
 Diese Information wird benutzt, um die Sensor Daten auf der [Karte](#sensor-community-karte-mit-daten-anzeigen) anzuzeigen.
 
